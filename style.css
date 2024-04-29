@@ -52,296 +52,6 @@ table {
   border-spacing: 0;
 }
 
-.hero {
-  background-image: url("./zebra banner 2 1.png");
-  height: 150vh;
-}
-
-.navbar-brand {
-  color: dark orangered;
-}
-
-.hero h1 {
-  color: white;
-  font-size: 250px;
-  margin: bottom 150px;
-  text-align: center;
-  align-items: center;
-  justify-content: center;
-  justify-content: center;
-}
-
-.container2 {
-  height: 150vh;
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  align-content: center;
-  justify-content: center;
-  align-content: space-evenly;
-  justify-content: space-evenly;
-}
-
-.container2 h2 {
-  font-family: Arial, Helvetica, sans-serif;
-  color: black;
-  font-size: 50px;
-  position: absolute;
-  margin-bottom: 650px;
-  margin-right: 1000px;
-}
-
-.container2 #p {
-  font-size: 20px;
-  font-family: Arial, Helvetica, sans-serif;
-  display: flex;
-  flex-direction: column;
-  align-content: space-evenly;
-  justify-content: space-evenly;
-  justify-content: space-between;
-}
-
-.p p {
-  font-size: 50px;
-  padding: 10px;
-}
-
-.img {
-  height: 30px;
-}
-
-.container2 button {
-  background-color: orangered;
-  position: absolute;
-  margin-top: 600px;
-  margin-right: 850px;
-  padding-bottom: 10px;
-  padding-top: 10px;
-  padding-left: 10px;
-  padding-right: 10px;
-}
-
-.container3 {
-  height: 150vh;
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  align-content: center;
-  justify-content: center;
-}
-
-.container3 h2 {
-  font-size: 40px;
-  color: black;
-  font-family: Arial, Helvetica, sans-serif;
-  position: absolute;
-  margin-bottom: 800px;
-  margin-right: 1000px;
-}
-
-.container3 img {
-  font: size 30px;
-}
-
-.container4 {
-  height: 150vh;
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: center;
-}
-
-.container4 h2 {
-  font-size: 40px;
-  color: black;
-  font-family: Arial, Helvetica, sans-serif;
-  position: absolute;
-  margin-bottom: 800px;
-  margin-right: 1000px;
-}
-
-.container4 p {
-  font-size: 20px;
-  color: black;
-  font-family: Arial, Helvetica, sans-serif;
-  position: absolute;
-  margin-bottom: 780px;
-  margin-right: 950px;
-}
-
-.container5 {
-  height: 150vh;
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: center;
-}
-
-.container5 h2 {
-  font-size: 40px;
-  color: black;
-  font-family: Arial, Helvetica, sans-serif;
-  position: absolute;
-  margin-bottom: 800px;
-  margin-right: 1000px;
-}
-
-.container6 {
-  height: 100vh;
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: center;
-}
-
-.bg {
-  background-color: orangered;
-  height: 50vh;
-  width: 40vh;
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: center;
-  align-content: space-between;
-  justify-content: space-between;
-}
-
-.bg h3 {
-  color: white;
-  padding: 5px;
-}
-
-.container6 h2 {
-  font-size: 40px;
-  color: black;
-  font-family: Arial, Helvetica, sans-serif;
-  position: absolute;
-  margin-bottom: 800px;
-  margin-right: 1000px;
-}
-
-.container7 {
-  height: 100vh;
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: center;
-  align-content: space-between;
-  justify-content: space-between;
-  margin-bottom: 3px;
-}
-
-.container7 h2 {
-  font-size: 40px;
-  color: rgb(0, 0, 0);
-  font-family: Arial, Helvetica, sans-serif;
-  position: absolute;
-  margin-bottom: 800px;
-  margin-right: 1000px;
-}
-
-.container8 {
-  height: 2px;
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: center;
-  margin-bottom: 50vh;
-  align-content: space-between;
-  justify-content: space-between;
-  margin-top: 3px;
-}
-
-.illustrator {
-  background-color: orangered;
-  height: 40vh;
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: center;
-  justify-content: center;
-  color: white;
-}
-
-.div1 {
-  position: absolute;
-  margin-bottom: 15vh;
-  margin-right: 210vh;
-}
-
-.div1 h3 {
-  font-size: 30px;
-  padding: 3px;
-}
-
-.div1 h4 {
-  font-size: 15px;
-  padding: 3px;
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-.div2 {
-  position: absolute;
-  margin-bottom: 20vh;
-  margin-right: 40%;
-}
-
-.div2 h3 {
-  font-size: 30px;
-}
-
-.div2 h4 {
-  font-size: 15px;
-  padding: 5px;
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-.div3 {
-  position: absolute;
-  margin-bottom: 20vh;
-  margin-left: 45vh;
-}
-
-.div3 h3 {
-  font-size: 30px;
-}
-
-.div3 h4 {
-  font-size: 15px;
-  padding: 10px;
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-.div4 {
-  position: absolute;
-  margin-bottom: 20vh;
-  margin-left: 150vh;
-}
-
-.div4 h3 {
-  font-size: 30px;
-}
-
-.div4 h4 {
-  font-size: 60px;
-  padding: 10px;
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-.form {
-  width: 200px;
-  align-items: center;
-  justify-content: center;
-  position: absolute;
-  margin-left: 150vh;
-}
-
-.copyright {
-  position: absolute;
-  margin-bottom: -30vh;
-  text-align: center;
-}
-
 /*
 ####################################################
 M E D I A  Q U E R I E S
@@ -356,127 +66,148 @@ Extra small devices (portrait phones, less than 576px)
 No media query since this is the default in Bootstrap because it is "mobile first"
 */
 /* Small devices (landscape phones, 576px and up) */
-/* Medium devices (tablets, 768px and up) The navbar toggle appears at this breakpoint */
-@media (min-width: 768px) {
-  .hero {
-    background-image: url("./zebra banner 2 1.png");
-    height: 150vh;
-  }
-  .navbar-brand {
-    color: dark orangered;
+@media (min-width: 568px) {
+  .hero-fluid {
+    background-image: url(zebra\ banner\ 2\ 1.png);
+    height: 120vh;
   }
   .hero h1 {
+    padding-top: 5vh;
+    font-size: 200px;
     color: white;
-    font-size: 250px;
-    margin: bottom 150px;
-    text-align: center;
     align-items: center;
-    justify-content: center;
+    text-align: center;
+    align-content: center;
     justify-content: center;
   }
   .container2 {
-    height: 150vh;
+    height: 120vh;
     display: flex;
     flex-direction: row;
     align-items: center;
-    align-content: center;
     justify-content: center;
-    align-content: space-evenly;
-    justify-content: space-evenly;
   }
   .container2 h2 {
-    font-family: Arial, Helvetica, sans-serif;
-    color: black;
-    font-size: 50px;
+    font-size: 60px;
     position: absolute;
-    margin-bottom: 650px;
-    margin-right: 1000px;
+    margin-left: -90vh;
+    margin-top: -80vh;
   }
-  .container2 #p {
+  .paragraph {
+    position: absolute;
+    margin-left: -90vh;
+    margin-top: -20vh;
     font-size: 20px;
-    font-family: Arial, Helvetica, sans-serif;
-    display: flex;
-    flex-direction: column;
-    align-content: space-evenly;
-    justify-content: space-evenly;
-    justify-content: space-between;
   }
-  .p p {
-    font-size: 50px;
-    padding: 10px;
-  }
-  .img {
-    height: 30px;
-  }
-  .container2 button {
-    background-color: orangered;
-    position: absolute;
-    margin-top: 600px;
-    margin-right: 850px;
+  .paragraph button {
+    background-color: rgb(202, 69, 20);
+    color: white;
     padding-bottom: 10px;
     padding-top: 10px;
-    padding-left: 10px;
-    padding-right: 10px;
   }
-  .container3 {
-    height: 150vh;
+  .imgs {
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+  }
+  .img {
+    position: absolute;
+    margin-left: 20vh;
+    margin-top: -30vh;
+  }
+  .img1 {
+    display: block;
+    -moz-column-count: 2;
+         column-count: 2;
+    position: absolute;
+    margin-left: 60vh;
+    margin-top: -60vh;
+  }
+  .Activities {
+    height: 90vh;
     display: flex;
     flex-direction: row;
     align-items: center;
     align-content: center;
     justify-content: center;
+    justify-content: center;
   }
-  .container3 h2 {
-    font-size: 40px;
-    color: black;
-    font-family: Arial, Helvetica, sans-serif;
+  .Activities h1 {
     position: absolute;
-    margin-bottom: 800px;
-    margin-right: 1000px;
+    margin-bottom: 85vh;
+    font-size: 60px;
+    margin-left: -95vh;
   }
-  .container3 img {
-    font: size 30px;
+  .overlay-text {
+    color: rgba(245, 222, 179, 0);
+    position: absolute;
+    margin-top: -20vh;
+    margin-left: 5%;
   }
   .container4 {
-    height: 150vh;
+    padding-top: 10vh;
+    height: 110vh;
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: center;
   }
-  .container4 h2 {
-    font-size: 40px;
-    color: black;
-    font-family: Arial, Helvetica, sans-serif;
+  .icon1 {
     position: absolute;
-    margin-bottom: 800px;
-    margin-right: 1000px;
+    margin-top: -120vh;
+    margin-right: 90vh;
   }
-  .container4 p {
-    font-size: 20px;
-    color: black;
-    font-family: Arial, Helvetica, sans-serif;
-    position: absolute;
-    margin-bottom: 780px;
-    margin-right: 950px;
+  .icon1 h2 {
+    font-size: 50px;
+    padding: bottom 5px;
+  }
+  .icon1 p {
+    padding-top: 50px;
+    font-size: 30px;
+  }
+  .container-fluid {
+    margin-left: 10vh;
+    display: flex;
+    flex-direction: row;
+    align-content: space-around;
+    justify-content: space-around;
+  }
+  .icon2 {
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    align-content: center;
+    justify-content: space-between;
+  }
+  .icon5 {
+    display: block;
+    -moz-column-count: 2;
+         column-count: 2;
+    padding: 10px;
+    margin-right: -35vh;
+    margin-top: -50vh;
+  }
+  .icon6 {
+    padding: 5px;
   }
   .container5 {
-    height: 150vh;
+    height: 100vh;
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: center;
+    align-content: space-between;
+    justify-content: space-between;
+    margin-bottom: 3px;
   }
   .container5 h2 {
     font-size: 40px;
-    color: black;
-    font-family: Arial, Helvetica, sans-serif;
     position: absolute;
     margin-bottom: 800px;
-    margin-right: 1000px;
+    margin-right: -80vh;
   }
   .container6 {
-    height: 150vh;
+    height: 90vh;
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -484,8 +215,6 @@ No media query since this is the default in Bootstrap because it is "mobile firs
   }
   .container6 h2 {
     font-size: 40px;
-    color: black;
-    font-family: Arial, Helvetica, sans-serif;
     position: absolute;
     margin-bottom: 800px;
     margin-right: 1000px;
@@ -502,11 +231,9 @@ No media query since this is the default in Bootstrap because it is "mobile firs
   }
   .container7 h2 {
     font-size: 40px;
-    color: rgb(0, 0, 0);
-    font-family: Arial, Helvetica, sans-serif;
     position: absolute;
-    margin-bottom: 800px;
-    margin-right: 1000px;
+    margin-bottom: 740px;
+    margin-left: 80vh;
   }
   .container8 {
     height: 2px;
@@ -532,57 +259,74 @@ No media query since this is the default in Bootstrap because it is "mobile firs
   .div1 {
     position: absolute;
     margin-bottom: 15vh;
-    margin-right: 210vh;
+    margin-right: 150vh;
   }
   .div1 h3 {
-    font-size: 30px;
-    padding: 3px;
+    font-size: 35px;
+    padding: 10px;
   }
   .div1 h4 {
-    font-size: 15px;
-    padding: 3px;
+    font-size: 20px;
+    padding: 10px;
     font-family: Arial, Helvetica, sans-serif;
   }
   .div2 {
     position: absolute;
     margin-bottom: 15vh;
-    margin-right: 40%;
+    margin-right: 25%;
   }
   .div2 h3 {
-    font-size: 30px;
+    font-size: 35px;
   }
   .div2 h4 {
-    font-size: 15px;
-    padding: 3px;
+    font-size: 20px;
+    padding: 10px;
     font-family: Arial, Helvetica, sans-serif;
   }
   .div3 {
     position: absolute;
-    margin-bottom: 15vh;
-    margin-left: 45vh;
+    margin-bottom: 19vh;
+    margin-left: 25vh;
   }
   .div3 h3 {
     font-size: 30px;
+    padding: 10px;
   }
   .div3 h4 {
-    font-size: 15px;
-    padding: 5px;
+    font-size: 20px;
+    padding: 10px;
     font-family: Arial, Helvetica, sans-serif;
   }
   .div4 {
     position: absolute;
-    margin-bottom: 15vh;
-    margin-left: 150vh;
+    margin-bottom: 32vh;
+    margin-left: 115vh;
   }
   .div4 h3 {
     font-size: 30px;
   }
   .div4 h4 {
-    font-size: 60px;
-    padding: 5px;
+    font-size: 20px;
+    padding: 10px;
     font-family: Arial, Helvetica, sans-serif;
   }
+  .form {
+    display: flex;
+    align-items: center;
+    position: absolute;
+    margin-left: 115vh;
+    height: 27vh;
+  }
+  .copyright {
+    position: absolute;
+    margin-top: 20vh;
+    text-align: center;
+  }
+  .copyright img {
+    height: 20px;
+  }
 }
+/* Medium devices (tablets, 768px and up) The navbar toggle appears at this breakpoint */
 /* Large devices (desktops, 992px and up) */
 /* Extra large devices (large desktops, 1200px and up) */
 /*
